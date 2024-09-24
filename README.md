@@ -1,7 +1,7 @@
 # house-rental-management-software-free
 # house-rental-management-software-free
-Username : rayhanakon1971@gmail.com
-Password : rootadmin
+#Username : rayhanakon1971@gmail.com
+#Password : rootadmin
 
 ===================
 for more projects visit : https://mdrayhanakon.com/
